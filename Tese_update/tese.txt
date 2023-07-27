@@ -1,0 +1,5 @@
+
+Trabalho futuro -> onde explico como pode ser utilizado um DSS e qual dos modelos é melhor se adequeada. 
+E apresentar uma proposta de arquitetura.
+
+
